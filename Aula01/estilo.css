@@ -1,0 +1,14 @@
+label {
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    background-color: black;
+}
+
+body{
+    background-color: gray;
+}
+
+input{
+    background-color: transparent;
+}
